@@ -19,7 +19,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <slf4j.version>1.7.26</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
-        <gh.version>839e06ecb67e96496a75b033039ff9f3c2e1ae09</gh.version>
+        <gh.version>88b7ed59bdf54ee5496e5f4751494d5cee86e0e7</gh.version>
 
 
         <dropwizard.version>2.0.8</dropwizard.version>
